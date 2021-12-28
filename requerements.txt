@@ -1,0 +1,9 @@
+click==8.0.1
+colorama==0.4.4
+imutils==0.5.4
+numpy==1.21.2
+opencv-python==4.5.3.56
+Pillow==8.3.1
+dlib==19.22.1
+face-recognition
+
